@@ -13,7 +13,6 @@
 </sub>
 
 </div>
-</div>
 
 [<< Day 2](../02_Day_Introduction_to_React/02_introduction_to_react.md) | [Day 4 >>](../04_Day_Components/04_components.md)
 
